@@ -37,8 +37,7 @@ class Data {
 // iter ==> diffusion time
 // k ==> λ (contrast parameter)
 
-int main (int argc,char **argv)
-{
+int main (int argc,char **argv) {
 
     //  this array according to the data provided in the questions
     Data data_array[11];
