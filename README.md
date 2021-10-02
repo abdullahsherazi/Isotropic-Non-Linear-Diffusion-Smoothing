@@ -1,6 +1,6 @@
 # Isotropic-Non-Linear-Diffusion-Smoothing-Python
 
-The code for Isotropic Non-Linear PDE is written in Python language. Running this code will require python, PIL library, medpy.filter.smoothing library and numpy library installed in the system.
+The code in this branch for Isotropic Non-Linear PDE is written in Python language. Running this code will require python, PIL library, medpy.filter.smoothing library and numpy library installed in the system.
 
 
 References:
