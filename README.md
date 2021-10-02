@@ -1,6 +1,7 @@
 # Isotropic-Non-Linear-Diffusion-Smoothing-C++
 
-The code for Isotropic Non-Linear PDE is written in C++ language. Running this code will require C++ compiler and opencv library installed in the system.
+The code for Isotropic Non-Linear PDE is written in Python language. Running this code will require python, PIL library, medpy.filter.smoothing library and numpy library installed in the system.
+
 
 References:
 
@@ -14,4 +15,3 @@ References:
 
 [5] https://www.lri.fr/~gcharpia/VisionSeminar/slides/2014-04-02-kornprobst-vist.pdf
 
-[6] https://www.youtube.com/watch?v=HxNZEa7Slyk&ab_channel=ThomasRimer (opencv configuration for xcode)
